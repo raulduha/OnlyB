@@ -1,0 +1,17 @@
+/* Agrega estilos específicos para el componente Brainstorming */
+/* Puedes personalizar según tus necesidades */
+.delete-btn {
+    background-color: #ff5858;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 12px;
+  }
+  
+  .delete-btn:hover {
+    background-color: #ff0000;
+  }
+  
